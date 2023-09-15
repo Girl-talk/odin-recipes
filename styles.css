@@ -1,0 +1,19 @@
+.head {
+    background-color: grey;
+    color: whitesmoke;
+    font-size: 36px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+
+a {
+    color: red;
+    text-align: center;
+    font-size: 26px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+a:hover {
+    color: blue;
+}

@@ -1,19 +1,32 @@
+.redo {
+    color: purple;
+    font-size: 26px;
+    text-align: center;
+    font-family: "Open Sans", "PT Sans", sans-serif;
+
+}
+
+
+
 .head {
     background-color: grey;
     color: whitesmoke;
     font-size: 36px;
     text-align: center;
-    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-family: "Open Sans", "PT Sans", sans-serif;
 }
+
 
 a {
     color: red;
     text-align: center;
     font-size: 26px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Open Sans", "PT Sans";
     
 }
 
 a:hover {
     color: blue;
+
+
 }
